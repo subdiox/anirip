@@ -9,7 +9,7 @@ import (
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
-	"github.com/sdwolfe32/anirip/common"
+	"github.com/subdiox/anirip/common"
 )
 
 var (

@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
-	"github.com/sdwolfe32/anirip/common"
+	"github.com/subdiox/anirip/common"
 )
 
 // Show contins show metadata and child seasons
